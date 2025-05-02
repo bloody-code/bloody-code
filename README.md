@@ -10,7 +10,7 @@
 
 ## 🧠 Обо мне
 
-- Пишу на Python и Bash
+- Пишу на Python.
 - Использую Alpine Linux и Termux
 - Люблю лёгкие, надёжные и понятные инструменты
 - Пишу утилиты, скрипты и Telegram-ботов
@@ -37,7 +37,8 @@
 
 #### 📅 Календарь коммитов
 
-![Коммиты PAVELNEDELKO1100](https://github-readme-activity-graph.cyclic.app/graph?username=PAVELNEDELKO1100&theme=tokyo-night&hide_border=true)
+![Коммиты PAVELNEDELKO1100](https://github-readme-activity-graph.vercel.app/graph?username=PAVELNEDELKO1100&theme=tokyo-night&hide_border=true)
+
 
 ---
 
@@ -58,7 +59,7 @@
 
 #### 📅 Календарь коммитов
 
-![Коммиты Plovchikdeval](https://github-readme-activity-graph.cyclic.app/graph?username=Plovchikdeval&theme=tokyo-night&hide_border=true)
+![Коммиты Plovchikdeval](https://github-readme-activity-graph.vercel.app/graph?username=Plovchikdeval&theme=tokyo-night&hide_border=true)
 
 ---
 
