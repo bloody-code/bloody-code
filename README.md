@@ -2,8 +2,9 @@
 <p align="center">Python-разработчик.</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Plovchikdeval&label=Просмотры%20профиля&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Plovchikdeval&label=Просмотры%20профиля&color=0e75b6&style=flat&width=900" alt="Profile Views" />
 </p>
+
 
 ---
 
