@@ -71,12 +71,13 @@
 ![Termux](https://img.shields.io/badge/-Termux-333?style=for-the-badge&logo=android)
 ![SQLite](https://img.shields.io/badge/-SQLite-333?style=for-the-badge&logo=sqlite)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
-
+![Mysql](https://img.shields.io/badge/-mysql-333?style=for-the-badge&logo=mysql)
+![Arch](https://img.shields.io/badge/-ArchLinux-333?style=for-the-badge&logo=archlinux)
 ---
 
 ## 📌 Telegram
 
-- [@noname_developers](https://t.me/noname_developers)
+- [@nolove_tguser](https://t.me/nolove_tguser)
 
 ---
 
