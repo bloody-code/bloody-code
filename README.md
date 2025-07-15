@@ -2,7 +2,7 @@
 <p align="center">Python-разработчик.</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Plovchikdeval&label=Просмотры%20профиля&color=0e75b6&style=flat&width=2900" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Plovchikdeval&label=Просмотры%20профиля&color=0e75b6&style=flat&width=290000" alt="Profile Views" />
 </p>
 
 
@@ -73,6 +73,7 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
 ![Mysql](https://img.shields.io/badge/-mysql-333?style=for-the-badge&logo=mysql)
 ![Arch](https://img.shields.io/badge/-ArchLinux-333?style=for-the-badge&logo=archlinux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333?style=for-the-badge&logo=ubuntu)
 ---
 
 ## 📌 Telegram
