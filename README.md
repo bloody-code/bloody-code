@@ -1,11 +1,6 @@
 <h1 align="center">Привет, я Plovchikdeval!</h1>
 <p align="center">Python-разработчик.</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Plovchikdeval&label=Просмотры%20профиля&color=0e75b6&style=flat&width=290000" alt="Profile Views" />
-</p>
-
-
 ---
 
 ## 🧠 Обо мне
