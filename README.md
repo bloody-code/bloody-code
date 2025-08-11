@@ -19,7 +19,7 @@
 
 #### 🏆 Трофеи
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://trophy.nloveuser.ru/?username=PAVELNEDELKO1100&column=10&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Pavelnedelko1100&theme=black"/>
 </a>
 
 #### 📊 Статистика
@@ -41,7 +41,7 @@
 
 #### 🏆 Трофеи
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://trophy.nloveuser.ru/?username=Plovchikdeval&column=10&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Plovchikdeval&theme=black"/>
 </a>
 
 #### 📊 Статистика
