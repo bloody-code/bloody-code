@@ -69,6 +69,7 @@
 ![Mysql](https://img.shields.io/badge/-mysql-333?style=for-the-badge&logo=mysql)
 ![Arch](https://img.shields.io/badge/-ArchLinux-333?style=for-the-badge&logo=archlinux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333?style=for-the-badge&logo=ubuntu)
+![Fedora](https://img.shields.io/badge/-Fedora-333?style=for-the-badge&logo=fedora)
 ---
 
 ## 📌 Telegram
