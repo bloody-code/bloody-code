@@ -61,7 +61,7 @@
 ## 📌 Telegram
 <p align="center">
   <a href="https://t.me/nloveuser">
-    <img src="https://img.shields.io/badge/Telegram-%40nolove__tguser-333?style=for-the-badge&logo=telegram&logoColor=white&labelColor=00000000" />
+    <img src="https://img.shields.io/badge/Telegram-%40nloveuser-333?style=for-the-badge&logo=telegram&logoColor=white&labelColor=00000000" />
   </a>
 </p>
 
