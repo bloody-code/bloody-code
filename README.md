@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=n%E2%99%A1user/Plovchikdeval" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=n%E2%99%A1user/Plovchikdeval" />
 </p>
 
 <h2 align="center">👋 Привет! Я Python backend-разработчик</h2>
