@@ -59,11 +59,50 @@
 ---
 
 ## 📌 Telegram
+
 <p align="center">
   <a href="https://t.me/nloveuser">
     <img src="https://img.shields.io/badge/Telegram-%40nloveuser-333?style=for-the-badge&logo=telegram&logoColor=white&labelColor=00000000" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://t.me/nloveuser_v2">
+    <img src="https://img.shields.io/badge/Telegram-%40nloveuser_v2-333?style=for-the-badge&logo=telegram&logoColor=white&labelColor=00000000" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://t.me/nl0veuser">
+    <img src="https://img.shields.io/badge/Telegram-%40nl0veuser-333?style=for-the-badge&logo=telegram&logoColor=white&labelColor=00000000" />
+  </a>
+</p>
+
+
+## 🌐 WebSite
+
+<p align="center">
+  <a href="https://nloveuser.ru">
+    <img src="https://img.shields.io/badge/Web-%40nloveuser.ru-333?style=for-the-badge&logo=web&logoColor=white&labelColor=00000000" />
+  </a>
+</p>
+
+
+## ✏️ Githubs
+
+<p align="center">
+  <a href="https://github.com/nloveuser">
+    <img src="https://img.shields.io/badge/Github-%40nloveuser-333?style=for-the-badge&logo=github&logoColor=white&labelColor=00000000" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/Plovchikdeval">
+    <img src="https://img.shields.io/badge/Github-%40Plovchikdeval-333?style=for-the-badge&logo=github&logoColor=white&labelColor=00000000" />
+  </a>
+</p>
+
 
 ---
 
